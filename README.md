@@ -1,1 +1,3 @@
 # Test
+
+![screenshot](screenshot.png)
